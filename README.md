@@ -16,6 +16,9 @@ The program **dialog_demo_timeout.py** opens a *Gtk.MessageDialog* window and di
 seconds. It then closes the MessageDialog box. It is effectively a pop-up window that can be used to warn 
 the User of, say, "Exceeding limit of login attempts".
 
+The program **dialog_demo_timeout_css.py** introduces Cascading Style Sheets (CSS) to modify fonts and
+colours, etc.
+
 
 Tested with Gtk version 3.24.18
 
